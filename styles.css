@@ -1,0 +1,35 @@
+body{
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.card{
+    width: 400px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+    text-align: center;
+    color: #192a51;
+    background: #f7d1cd;
+    border-bottom: 6px solid #b392ac;
+    
+
+}
+
+.profile-image{
+    width: 150px;
+}
+
+.border-card{
+    border-radius: 15px;
+}
+
+a:link{
+    text-decoration: none;
+    color: #192a51;
+
+}
+a:hover{
+    background: #f5e6e8;
+}
